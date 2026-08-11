@@ -22,9 +22,9 @@ Excel Tools 是一款用于批量处理 Excel/CSV 数据的浏览器扩展。
 
 如果你在使用过程中遇到问题，或者希望增加新的快捷操作，欢迎通过 GitHub Issues 告诉我们。
 
-- [报告 Bug](https://github.com/chouyingying73-byte/excelTools/issues/new?template=bug_report.md)
-- [提出新功能建议](https://github.com/chouyingying73-byte/excelTools/issues/new?template=feature_request.md)
-- [查看已有反馈](https://github.com/chouyingying73-byte/excelTools/issues)
+- [报告 Bug](https://github.com/chouxingxing73-byte/excelTools/issues/new?template=bug_report.md)
+- [提出新功能建议](https://github.com/chouxingxing73-byte/excelTools/issues/new?template=feature_request.md)
+- [查看已有反馈](https://github.com/chouxingxing73-byte/excelTools/issues)
 
 提交前请注意：
 
@@ -56,9 +56,9 @@ More quick actions will be introduced gradually based on user feedback.
 
 If you encounter a problem or would like a new quick action, please submit it through GitHub Issues.
 
-- [Report a bug](https://github.com/chouyingying73-byte/excelTools/issues/new?template=bug_report.md)
-- [Request a feature](https://github.com/chouyingying73-byte/excelTools/issues/new?template=feature_request.md)
-- [View existing issues](https://github.com/chouyingying73-byte/excelTools/issues)
+- [Report a bug](https://github.com/chouxingxing73-byte/excelTools/issues/new?template=bug_report.md)
+- [Request a feature](https://github.com/chouxingxing73-byte/excelTools/issues/new?template=feature_request.md)
+- [View existing issues](https://github.com/chouxingxing73-byte/excelTools/issues)
 
 Before submitting:
 
